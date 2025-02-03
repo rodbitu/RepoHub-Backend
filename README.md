@@ -1,31 +1,33 @@
-<h1 align="center">RepoHub</h1>
+# <h1 align="center">RepoHub</h1>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=Language&message=Node.js&color=8257E5&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=Version&message=1.0&color=8257E5&labelColor=000000">
 </p>
 
 <br>
 
-## ✨ Tecnologias
+## ✨ Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [Bcryptjs](https://www.npmjs.com/package/bcryptjs)
 - [JsonWebToken](https://jwt.io/)
 
-## 💻 Projeto
+## 💻 Project
 
-RepoHub é uma plataforma online que permite aos usuários organizarem seus repositórios de forma rápida e fácil.
+RepoHub is an online platform that allows users to organize their repositories quickly and easily.
 
-## 🚀 Como executar
+## 🚀 How to run
 
-- Clone o repositório
-- Rode o `npm run dev` para iniciar a aplicação.
+- Clone the repository
+- Run `npm run dev` to start the application.
 
-Por fim, a aplicação estará disponível em `http://localhost:5000`
+Finally, the application will be available at `http://localhost:5000`
 
-## 📄 Licença
+## 📄 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
